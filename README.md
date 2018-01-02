@@ -1,3 +1,3 @@
 # retainers
 Build your own lisp  
-[I'm an inline-style link](https://www.google.com)
+[Build your own lisp](http://www.buildyourownlisp.com/)
