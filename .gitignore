@@ -1,3 +1,11 @@
 *.swp
 *.swo
 *.swn
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
